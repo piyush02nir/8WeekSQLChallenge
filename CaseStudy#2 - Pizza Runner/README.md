@@ -1,7 +1,7 @@
 # Case Study #2: Pizza Runner 🍕
-[![View Main Folder](https://img.shields.io/badge/View-Main_Folder-F5788D.svg?logo=GitHub)](https://github.com/chanronnie/8WeekSQLChallenge)
+[![View Main Folder](https://img.shields.io/badge/View-Main_Folder-F5788D.svg?logo=GitHub)](https://github.com/piyush02nir/8WeekSQLChallenge)
 [![View Case Study 2](https://img.shields.io/badge/View-Case_Study_2-9336E5)](https://8weeksqlchallenge.com/case-study-2/)</br>
-![2](https://github.com/chanronnie/8WeekSQLChallenge/assets/121308347/b7a82869-9156-4cf5-add0-67f701bf3e45)
+![2](https://github.com/piyush02nir/image-for-redme/blob/main/8WeekSQLChallenge/pizza_runner/2.png)
 
 
 The case study presented here is part of the **8 Week SQL Challenge**.\
@@ -17,7 +17,7 @@ I use `MySQL queries` in `Jupyter Notebook` to quickly view results.
 * [MySQL Topics Covered](#mysql-topics-covered)
 
 ## Entity Relationship Diagram
-![Pizza Runner](https://github.com/chanronnie/8WeekSQLChallenge/assets/121308347/4222d127-ee94-49be-95ce-6e81d9b3774a)
+![Pizza Runner](https://github.com/piyush02nir/image-for-redme/blob/main/8WeekSQLChallenge/pizza_runner/250396488-4222d127-ee94-49be-95ce-6e81d9b3774a.png)
 
 
 ## Datasets

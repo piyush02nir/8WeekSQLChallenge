@@ -1,7 +1,7 @@
 # Case Study #1: Danny's Diner 🍥 
-[![View Main Folder](https://img.shields.io/badge/View-Main_Folder-F5788D.svg?logo=GitHub)](https://github.com/chanronnie/8WeekSQLChallenge)
+[![View Main Folder](https://img.shields.io/badge/View-Main_Folder-F5788D.svg?logo=GitHub)](https://github.com/piyush02nir/8WeekSQLChallenge)
 [![View Case Study 1](https://img.shields.io/badge/View-Case_Study_1-68032C)](https://8weeksqlchallenge.com/case-study-1/)</br>
-![1](https://github.com/chanronnie/8WeekSQLChallenge/assets/121308347/3ebb1080-b8d3-4381-850d-4a003cc9476d)
+![1](https://github.com/piyush02nir/image-for-redme/blob/main/8WeekSQLChallenge/danny_dinner/case_study_1.png)
 
 The case study presented here is part of the **8 Week SQL Challenge**.\
 It is kindly brought to us by [**Data With Danny**](https://8weeksqlchallenge.com).\
@@ -17,7 +17,7 @@ I use `MySQL queries` in `Jupyter Notebook` to quickly view results.
 
 
 ## Entity Relationship Diagram
-![Danny's Diner](https://github.com/chanronnie/8WeekSQLChallenge/assets/121308347/d71bffd1-6513-456c-9686-d95dbf1eeaaf)
+![Danny's Diner](https://github.com/piyush02nir/image-for-redme/blob/main/8WeekSQLChallenge/danny_dinner/249308531-d71bffd1-6513-456c-9686-d95dbf1eeaaf.png)
 
 ## Datasets
 The Case Study #1 contains 3 tables:
